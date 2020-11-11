@@ -1,0 +1,6 @@
+data
+*.pyc
+.idea
+extractMethodBody/.idea
+extractMethodBody/.settings
+extractMethodBody/bin
